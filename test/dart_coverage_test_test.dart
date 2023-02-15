@@ -3,6 +3,6 @@ import 'package:test/test.dart';
 
 void main() {
   test('calculate', () {
-    expect(divide(4, 2), 2);
+    expect(const Klass().divide(4, 2), 2);
   });
 }
