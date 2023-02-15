@@ -1,0 +1,1 @@
+{"type":"CodeCoverage","coverage":[{"source":"package:dart_coverage_test/dart_coverage_test.dart","script":{"type":"@Script","fixedId":true,"id":"libraries/1/scripts/package%3Adart_coverage_test%2Fdart_coverage_test.dart","uri":"package:dart_coverage_test/dart_coverage_test.dart","_kind":"library"},"hits":[1,1,2,1,3,1]}]}
